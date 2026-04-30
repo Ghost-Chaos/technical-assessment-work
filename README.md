@@ -9,6 +9,11 @@ This repository is ready for a timed technical assessment. It includes a minimal
 Run the pipeline:
 
 ```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+# Optional: add OPENROUTER_API_KEY to .env for real translations.
 python main.py
 ```
 

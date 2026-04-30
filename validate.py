@@ -18,6 +18,8 @@ REQUIRED_FILES = [
     "cost_report.json",
     "translation_cache.json",
     "llm_calls.jsonl",
+    "outputs/manifest.json",
+    "run_metrics.json",
 ]
 REQUIRED_MODULES = [
     "src/config.py",
@@ -48,6 +50,18 @@ def ok(message):
     print(f"OK: {message}")
 
 
+def scan_for_unresolved_placeholders(errors, directory):
+    root = ROOT / directory
+    if not root.exists():
+        fail(errors, f"Missing {directory}")
+        return
+    for path in root.rglob("*"):
+        if path.is_file():
+            text = path.read_text(encoding="utf-8")
+            if "__PROTECTED_" in text:
+                fail(errors, f"Unresolved protected placeholder found in {path.relative_to(ROOT)}")
+
+
 def main():
     errors = []
     for path in REQUIRED_FILES + REQUIRED_MODULES:
@@ -62,11 +76,37 @@ def main():
     protected_terms = load_json("protected_terms.json")
     qa_report = load_json("qa_report.json")
     cache = load_json("translation_cache.json")
+    manifest = load_json("outputs/manifest.json")
+    run_metrics = load_json("run_metrics.json")
 
     ok("Required files exist and JSON files are valid")
 
     if len(pages) < 1:
         fail(errors, "pages.json must include at least one page")
+    if manifest.get("pages_processed", 0) < 1:
+        fail(errors, "No pages were processed in outputs/manifest.json")
+    required_stages = [
+        "INIT",
+        "CONFIG_LOADED",
+        "PAGES_FETCHED",
+        "CONTENT_EXTRACTED",
+        "PROTECTED_TERMS_IDENTIFIED",
+        "SEGMENTS_PREPARED",
+        "SEGMENTS_DEDUPED_OR_CACHE_CHECKED",
+        "TRANSLATION_COMPLETE",
+        "HTML_RECONSTRUCTED",
+        "QA_COMPLETE",
+        "COST_REPORT_GENERATED",
+        "RESULTS_FINALISED",
+    ]
+    actual_stages = [event.get("stage") for event in run_metrics.get("stages", [])]
+    missing_stages = [stage for stage in required_stages if stage not in actual_stages]
+    if missing_stages:
+        fail(errors, f"Missing completed pipeline stages: {', '.join(missing_stages)}")
+    elif not run_metrics.get("completed"):
+        fail(errors, "run_metrics.json does not mark the run as completed")
+    else:
+        ok("Required pipeline stages completed")
     if not any(language.get("code") == "ar" and language.get("rtl") for language in languages):
         fail(errors, "Arabic target language with rtl=true is required")
     else:
@@ -96,10 +136,22 @@ def main():
         if not any(output_dir.glob("*.html")):
             fail(errors, f"Missing reconstructed HTML for {code}")
         for segment in segments:
-            translated = translations.get(segment["id"], {}).get("translated", "")
+            translation = translations.get(segment["id"], {})
+            translated = translation.get("translated", "")
+            unresolved = translation.get("unresolved_protected_placeholders") or re.findall(r"__PROTECTED_\d+__", translated)
+            if unresolved:
+                missing = translation.get("missing_placeholder_mappings") or []
+                detail = f"{', '.join(unresolved)}"
+                if missing:
+                    detail += f"; missing mappings: {', '.join(missing)}"
+                fail(errors, f"Unresolved protected placeholder for {code}: {segment['id']} ({detail})")
             for term in protected_terms:
-                if term in segment["text"] and term not in translated:
-                    fail(errors, f"Protected term not restored for {code}: {term}")
+                source_count = segment["text"].count(term)
+                translated_count = translated.count(term)
+                if source_count > 0 and translated_count < source_count:
+                    fail(errors, f"Protected term missing or reduced for {code}: {term} ({source_count} -> {translated_count})")
+                elif source_count == 0 and translated_count > 0:
+                    print(f"WARNING: Protected term added for {code}: {term} ({source_count} -> {translated_count})")
             for url in re.findall(r"https?://[^\s\"'<>)]+", segment["text"]):
                 if url not in translated:
                     fail(errors, f"URL not preserved for {code}: {url}")
@@ -124,8 +176,18 @@ def main():
 
     if not cache:
         fail(errors, "translation_cache.json is empty")
-    if not (ROOT / "llm_calls.jsonl").read_text(encoding="utf-8").strip():
+    scan_for_unresolved_placeholders(errors, "translations")
+    scan_for_unresolved_placeholders(errors, "output")
+    llm_lines = [line for line in (ROOT / "llm_calls.jsonl").read_text(encoding="utf-8").splitlines() if line.strip()]
+    if not llm_lines:
         fail(errors, "llm_calls.jsonl is empty")
+    else:
+        required_call_fields = {"segment_id", "language", "provider", "model", "status", "cache_hit", "source_hash", "input_chars", "output_chars", "usage", "estimated_cost"}
+        for index, line in enumerate(llm_lines, start=1):
+            record = json.loads(line)
+            missing = required_call_fields - set(record)
+            if missing:
+                fail(errors, f"llm_calls.jsonl line {index} missing fields: {', '.join(sorted(missing))}")
 
     if errors:
         print(f"Validation failed with {len(errors)} issue(s).")

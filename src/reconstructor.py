@@ -9,8 +9,15 @@ def write_translations(root: Path, translations):
     for language_code, language_translations in translations.items():
         lang_dir = base / language_code
         lang_dir.mkdir(parents=True, exist_ok=True)
+        public_translations = {
+            segment_id: {
+                "source": record["source"],
+                "translated": record["translated"],
+            }
+            for segment_id, record in language_translations.items()
+        }
         (lang_dir / "segments.json").write_text(
-            json.dumps(language_translations, ensure_ascii=False, indent=2),
+            json.dumps(public_translations, ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
 

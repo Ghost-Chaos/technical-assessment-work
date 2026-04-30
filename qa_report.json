@@ -5,7 +5,15 @@
       "ar",
       "ms"
     ],
-    "critical_issues": 0
+    "critical_issues": 0,
+    "warnings": 1
   },
-  "issues": []
+  "issues": [
+    {
+      "severity": "warning",
+      "segment_id": "home:alt:695",
+      "language": "ar",
+      "issue": "Protected term added: Deriv (0 -> 1)"
+    }
+  ]
 }

@@ -1,10 +1,16 @@
 {
   "currency": "USD",
-  "estimated_cost": 0.0,
-  "note": "Mock translations are free. OpenRouter cost depends on provider billing and response usage.",
+  "estimated_cost": null,
+  "note": "OpenRouter pricing varies by routed provider. Token usage is reported when returned by the API; cost is marked unknown instead of guessed.",
+  "openrouter_success_calls": 162,
+  "usage_totals": {
+    "prompt_tokens": 12901,
+    "completion_tokens": 2666,
+    "total_tokens": 15567
+  },
   "stats": {
-    "mock_calls": 148,
-    "api_calls": 0,
-    "cache_hits": 36
+    "mock_calls": 0,
+    "api_calls": 162,
+    "cache_hits": 22
   }
 }

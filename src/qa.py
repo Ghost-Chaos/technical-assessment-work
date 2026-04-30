@@ -12,10 +12,22 @@ def run_qa(root: Path, segments, languages, translations, protected_terms):
     for language in languages:
         code = language["code"]
         for segment in segments:
-            translated = translations[code][segment["id"]]["translated"]
+            translation = translations[code][segment["id"]]
+            translated = translation["translated"]
+            unresolved = translation.get("unresolved_protected_placeholders") or re.findall(r"__PROTECTED_\d+__", translated)
+            if unresolved:
+                missing = translation.get("missing_placeholder_mappings") or []
+                detail = f": {', '.join(unresolved)}"
+                if missing:
+                    detail += f"; missing mappings: {', '.join(missing)}"
+                issues.append({"severity": "critical", "segment_id": segment["id"], "language": code, "issue": f"Unresolved protected placeholder remains{detail}"})
             for term in protected_terms:
-                if term in segment["text"] and term not in translated:
-                    issues.append({"severity": "critical", "segment_id": segment["id"], "language": code, "issue": f"Protected term missing: {term}"})
+                source_count = segment["text"].count(term)
+                translated_count = translated.count(term)
+                if source_count > 0 and translated_count < source_count:
+                    issues.append({"severity": "critical", "segment_id": segment["id"], "language": code, "issue": f"Protected term missing or reduced: {term} ({source_count} -> {translated_count})"})
+                elif source_count == 0 and translated_count > 0:
+                    issues.append({"severity": "warning", "segment_id": segment["id"], "language": code, "issue": f"Protected term added: {term} (0 -> {translated_count})"})
             for url in URL_RE.findall(segment["text"]):
                 if url not in translated:
                     issues.append({"severity": "critical", "segment_id": segment["id"], "language": code, "issue": f"URL missing: {url}"})
@@ -34,6 +46,7 @@ def run_qa(root: Path, segments, languages, translations, protected_terms):
             "segments_checked": len(segments),
             "languages_checked": [language["code"] for language in languages],
             "critical_issues": sum(1 for issue in issues if issue["severity"] == "critical"),
+            "warnings": sum(1 for issue in issues if issue["severity"] == "warning"),
         },
         "issues": issues,
     }

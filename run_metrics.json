@@ -2,12 +2,12 @@
   "stages": [
     {
       "stage": "INIT",
-      "timestamp": "2026-04-30T16:54:54.580399+00:00",
+      "timestamp": "2026-04-30T17:31:24.557365+00:00",
       "details": {}
     },
     {
       "stage": "CONFIG_LOADED",
-      "timestamp": "2026-04-30T16:54:54.581295+00:00",
+      "timestamp": "2026-04-30T17:31:24.558201+00:00",
       "details": {
         "pages": 2,
         "languages": [
@@ -18,7 +18,7 @@
     },
     {
       "stage": "PAGES_FETCHED",
-      "timestamp": "2026-04-30T16:54:55.872836+00:00",
+      "timestamp": "2026-04-30T17:31:25.750674+00:00",
       "details": {
         "pages": 2,
         "sources": [
@@ -29,28 +29,28 @@
     },
     {
       "stage": "CONTENT_EXTRACTED",
-      "timestamp": "2026-04-30T16:54:55.902426+00:00",
+      "timestamp": "2026-04-30T17:31:25.783232+00:00",
       "details": {
         "segments": 92
       }
     },
     {
       "stage": "PROTECTED_TERMS_IDENTIFIED",
-      "timestamp": "2026-04-30T16:54:55.917281+00:00",
+      "timestamp": "2026-04-30T17:31:25.797949+00:00",
       "details": {
         "terms": 9
       }
     },
     {
       "stage": "SEGMENTS_PREPARED",
-      "timestamp": "2026-04-30T16:54:55.917301+00:00",
+      "timestamp": "2026-04-30T17:31:25.797973+00:00",
       "details": {
         "segments": 92
       }
     },
     {
       "stage": "SEGMENTS_DEDUPED_OR_CACHE_CHECKED",
-      "timestamp": "2026-04-30T16:54:55.917699+00:00",
+      "timestamp": "2026-04-30T17:31:25.798269+00:00",
       "details": {
         "unique_texts": 83,
         "cached_entries": 22
@@ -58,35 +58,35 @@
     },
     {
       "stage": "TRANSLATION_COMPLETE",
-      "timestamp": "2026-04-30T16:54:55.930559+00:00",
+      "timestamp": "2026-04-30T17:34:01.959692+00:00",
       "details": {
         "stats": {
-          "mock_calls": 148,
-          "api_calls": 0,
-          "cache_hits": 36
+          "mock_calls": 0,
+          "api_calls": 162,
+          "cache_hits": 22
         }
       }
     },
     {
       "stage": "HTML_RECONSTRUCTED",
-      "timestamp": "2026-04-30T16:54:55.992242+00:00",
+      "timestamp": "2026-04-30T17:34:02.039525+00:00",
       "details": {}
     },
     {
       "stage": "QA_COMPLETE",
-      "timestamp": "2026-04-30T16:54:55.994383+00:00",
+      "timestamp": "2026-04-30T17:34:02.043101+00:00",
       "details": {
         "critical_issues": 0
       }
     },
     {
       "stage": "COST_REPORT_GENERATED",
-      "timestamp": "2026-04-30T16:54:55.994513+00:00",
+      "timestamp": "2026-04-30T17:34:02.048336+00:00",
       "details": {}
     },
     {
       "stage": "RESULTS_FINALISED",
-      "timestamp": "2026-04-30T16:54:55.994703+00:00",
+      "timestamp": "2026-04-30T17:34:02.048718+00:00",
       "details": {}
     }
   ],
