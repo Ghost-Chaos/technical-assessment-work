@@ -1,5 +1,8 @@
+from src.pipeline import run_pipeline
+
+
 def main():
-    pass
+    run_pipeline()
 
 
 if __name__ == "__main__":

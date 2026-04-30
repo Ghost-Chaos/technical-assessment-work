@@ -1,0 +1,184 @@
+{"timestamp": "2026-04-30T16:54:55.917958+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:4", "input_chars": 66, "output_chars": 76}
+{"timestamp": "2026-04-30T16:54:55.918147+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:42", "input_chars": 24, "output_chars": 34}
+{"timestamp": "2026-04-30T16:54:55.918247+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:141", "input_chars": 23, "output_chars": 33}
+{"timestamp": "2026-04-30T16:54:55.918324+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:143", "input_chars": 75, "output_chars": 85}
+{"timestamp": "2026-04-30T16:54:55.918393+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:191", "input_chars": 102, "output_chars": 112}
+{"timestamp": "2026-04-30T16:54:55.918453+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:237", "input_chars": 31, "output_chars": 41}
+{"timestamp": "2026-04-30T16:54:55.918514+00:00", "provider": "mock", "language": "ar", "segment_id": "home:alt:311", "input_chars": 35, "output_chars": 45}
+{"timestamp": "2026-04-30T16:54:55.918572+00:00", "provider": "mock", "language": "ar", "segment_id": "home:alt:312", "input_chars": 42, "output_chars": 52}
+{"timestamp": "2026-04-30T16:54:55.918625+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:316", "input_chars": 28, "output_chars": 38}
+{"timestamp": "2026-04-30T16:54:55.918688+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:318", "input_chars": 156, "output_chars": 166}
+{"timestamp": "2026-04-30T16:54:55.918746+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:342", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.918799+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:343", "input_chars": 3, "output_chars": 13}
+{"timestamp": "2026-04-30T16:54:55.918855+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:344", "input_chars": 17, "output_chars": 27}
+{"timestamp": "2026-04-30T16:54:55.918930+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:345", "input_chars": 6, "output_chars": 16}
+{"timestamp": "2026-04-30T16:54:55.919037+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:346", "input_chars": 7, "output_chars": 17}
+{"timestamp": "2026-04-30T16:54:55.919116+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:354", "input_chars": 21, "output_chars": 31}
+{"timestamp": "2026-04-30T16:54:55.919187+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:355", "input_chars": 89, "output_chars": 99}
+{"timestamp": "2026-04-30T16:54:55.919250+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:375", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.919310+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:409", "input_chars": 24, "output_chars": 34}
+{"timestamp": "2026-04-30T16:54:55.919368+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:473", "input_chars": 18, "output_chars": 28}
+{"timestamp": "2026-04-30T16:54:55.919425+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:508", "input_chars": 29, "output_chars": 39}
+{"timestamp": "2026-04-30T16:54:55.919483+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:532", "input_chars": 25, "output_chars": 35}
+{"timestamp": "2026-04-30T16:54:55.919543+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:537", "input_chars": 15, "output_chars": 25}
+{"timestamp": "2026-04-30T16:54:55.919599+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:539", "input_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.919660+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:540", "input_chars": 89, "output_chars": 99}
+{"timestamp": "2026-04-30T16:54:55.919716+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:548", "input_chars": 11, "output_chars": 21}
+{"timestamp": "2026-04-30T16:54:55.919770+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:550", "input_chars": 11}
+{"timestamp": "2026-04-30T16:54:55.919880+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:551", "input_chars": 82, "output_chars": 92}
+{"timestamp": "2026-04-30T16:54:55.919939+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:559", "input_chars": 6, "output_chars": 16}
+{"timestamp": "2026-04-30T16:54:55.919995+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:561", "input_chars": 6}
+{"timestamp": "2026-04-30T16:54:55.920054+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:562", "input_chars": 63, "output_chars": 73}
+{"timestamp": "2026-04-30T16:54:55.920113+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:570", "input_chars": 13, "output_chars": 23}
+{"timestamp": "2026-04-30T16:54:55.920164+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:572", "input_chars": 13}
+{"timestamp": "2026-04-30T16:54:55.920220+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:573", "input_chars": 61, "output_chars": 71}
+{"timestamp": "2026-04-30T16:54:55.920272+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:581", "input_chars": 6, "output_chars": 16}
+{"timestamp": "2026-04-30T16:54:55.920323+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:583", "input_chars": 6}
+{"timestamp": "2026-04-30T16:54:55.920384+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:584", "input_chars": 65, "output_chars": 75}
+{"timestamp": "2026-04-30T16:54:55.920453+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:605", "input_chars": 38, "output_chars": 48}
+{"timestamp": "2026-04-30T16:54:55.920520+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:606", "input_chars": 223, "output_chars": 233}
+{"timestamp": "2026-04-30T16:54:55.920583+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:617", "input_chars": 32, "output_chars": 42}
+{"timestamp": "2026-04-30T16:54:55.920637+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:618", "input_chars": 61, "output_chars": 71}
+{"timestamp": "2026-04-30T16:54:55.920689+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:641", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.920747+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:649", "input_chars": 140, "output_chars": 150}
+{"timestamp": "2026-04-30T16:54:55.920803+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:656", "input_chars": 114, "output_chars": 124}
+{"timestamp": "2026-04-30T16:54:55.920863+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:663", "input_chars": 177, "output_chars": 187}
+{"timestamp": "2026-04-30T16:54:55.920930+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:670", "input_chars": 191, "output_chars": 201}
+{"timestamp": "2026-04-30T16:54:55.920984+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:684", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.921036+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:692", "input_chars": 7, "output_chars": 17}
+{"timestamp": "2026-04-30T16:54:55.921090+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:693", "input_chars": 38, "output_chars": 48}
+{"timestamp": "2026-04-30T16:54:55.921145+00:00", "provider": "mock", "language": "ar", "segment_id": "home:alt:695", "input_chars": 95, "output_chars": 105}
+{"timestamp": "2026-04-30T16:54:55.921197+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:701", "input_chars": 7, "output_chars": 17}
+{"timestamp": "2026-04-30T16:54:55.921251+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:702", "input_chars": 54, "output_chars": 64}
+{"timestamp": "2026-04-30T16:54:55.921306+00:00", "provider": "mock", "language": "ar", "segment_id": "home:alt:704", "input_chars": 90, "output_chars": 100}
+{"timestamp": "2026-04-30T16:54:55.921389+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:710", "input_chars": 5, "output_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.921446+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:711", "input_chars": 12, "output_chars": 22}
+{"timestamp": "2026-04-30T16:54:55.921503+00:00", "provider": "mock", "language": "ar", "segment_id": "home:alt:713", "input_chars": 98, "output_chars": 108}
+{"timestamp": "2026-04-30T16:54:55.921560+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:880", "input_chars": 23, "output_chars": 33}
+{"timestamp": "2026-04-30T16:54:55.921616+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:955", "input_chars": 10, "output_chars": 20}
+{"timestamp": "2026-04-30T16:54:55.921671+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:956", "input_chars": 13, "output_chars": 23}
+{"timestamp": "2026-04-30T16:54:55.921725+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:963", "input_chars": 8, "output_chars": 18}
+{"timestamp": "2026-04-30T16:54:55.921782+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:964", "input_chars": 20, "output_chars": 30}
+{"timestamp": "2026-04-30T16:54:55.921836+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:975", "input_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.921892+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:976", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.921947+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:983", "input_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.922003+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:990", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.922055+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:998", "input_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.922109+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:999", "input_chars": 6}
+{"timestamp": "2026-04-30T16:54:55.922161+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:1000", "input_chars": 11}
+{"timestamp": "2026-04-30T16:54:55.922215+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1001", "input_chars": 16, "output_chars": 26}
+{"timestamp": "2026-04-30T16:54:55.922275+00:00", "provider": "cache", "language": "ar", "segment_id": "home:text:1002", "input_chars": 13}
+{"timestamp": "2026-04-30T16:54:55.922330+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1003", "input_chars": 4, "output_chars": 14}
+{"timestamp": "2026-04-30T16:54:55.922384+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1014", "input_chars": 11, "output_chars": 21}
+{"timestamp": "2026-04-30T16:54:55.922439+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1015", "input_chars": 8, "output_chars": 18}
+{"timestamp": "2026-04-30T16:54:55.922495+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1016", "input_chars": 11, "output_chars": 21}
+{"timestamp": "2026-04-30T16:54:55.922550+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1017", "input_chars": 10, "output_chars": 20}
+{"timestamp": "2026-04-30T16:54:55.922607+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1025", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.922662+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1026", "input_chars": 18, "output_chars": 28}
+{"timestamp": "2026-04-30T16:54:55.922718+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1027", "input_chars": 14, "output_chars": 24}
+{"timestamp": "2026-04-30T16:54:55.922773+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1028", "input_chars": 28, "output_chars": 38}
+{"timestamp": "2026-04-30T16:54:55.922853+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1031", "input_chars": 589, "output_chars": 599}
+{"timestamp": "2026-04-30T16:54:55.922951+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1034", "input_chars": 313, "output_chars": 323}
+{"timestamp": "2026-04-30T16:54:55.923012+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1036", "input_chars": 20, "output_chars": 30}
+{"timestamp": "2026-04-30T16:54:55.923072+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1037", "input_chars": 15, "output_chars": 25}
+{"timestamp": "2026-04-30T16:54:55.923130+00:00", "provider": "mock", "language": "ar", "segment_id": "home:text:1038", "input_chars": 30, "output_chars": 40}
+{"timestamp": "2026-04-30T16:54:55.923191+00:00", "provider": "cache", "language": "ar", "segment_id": "trading:text:2", "input_chars": 23}
+{"timestamp": "2026-04-30T16:54:55.923246+00:00", "provider": "cache", "language": "ar", "segment_id": "trading:text:5", "input_chars": 7}
+{"timestamp": "2026-04-30T16:54:55.923301+00:00", "provider": "cache", "language": "ar", "segment_id": "trading:text:6", "input_chars": 9}
+{"timestamp": "2026-04-30T16:54:55.923362+00:00", "provider": "cache", "language": "ar", "segment_id": "trading:text:8", "input_chars": 80}
+{"timestamp": "2026-04-30T16:54:55.923429+00:00", "provider": "mock", "language": "ar", "segment_id": "trading:text:9", "input_chars": 96, "output_chars": 106}
+{"timestamp": "2026-04-30T16:54:55.923488+00:00", "provider": "cache", "language": "ar", "segment_id": "trading:text:10", "input_chars": 19}
+{"timestamp": "2026-04-30T16:54:55.923545+00:00", "provider": "cache", "language": "ar", "segment_id": "trading:alt:11", "input_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.923609+00:00", "provider": "cache", "language": "ar", "segment_id": "trading:text:12", "input_chars": 73}
+{"timestamp": "2026-04-30T16:54:55.923671+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:4", "input_chars": 66, "output_chars": 76}
+{"timestamp": "2026-04-30T16:54:55.923730+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:42", "input_chars": 24, "output_chars": 34}
+{"timestamp": "2026-04-30T16:54:55.923788+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:141", "input_chars": 23, "output_chars": 33}
+{"timestamp": "2026-04-30T16:54:55.923851+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:143", "input_chars": 75, "output_chars": 85}
+{"timestamp": "2026-04-30T16:54:55.923912+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:191", "input_chars": 102, "output_chars": 112}
+{"timestamp": "2026-04-30T16:54:55.923971+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:237", "input_chars": 31, "output_chars": 41}
+{"timestamp": "2026-04-30T16:54:55.924031+00:00", "provider": "mock", "language": "ms", "segment_id": "home:alt:311", "input_chars": 35, "output_chars": 45}
+{"timestamp": "2026-04-30T16:54:55.924098+00:00", "provider": "mock", "language": "ms", "segment_id": "home:alt:312", "input_chars": 42, "output_chars": 52}
+{"timestamp": "2026-04-30T16:54:55.924157+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:316", "input_chars": 28, "output_chars": 38}
+{"timestamp": "2026-04-30T16:54:55.924222+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:318", "input_chars": 156, "output_chars": 166}
+{"timestamp": "2026-04-30T16:54:55.924283+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:342", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.924343+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:343", "input_chars": 3, "output_chars": 13}
+{"timestamp": "2026-04-30T16:54:55.924404+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:344", "input_chars": 17, "output_chars": 27}
+{"timestamp": "2026-04-30T16:54:55.924462+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:345", "input_chars": 6, "output_chars": 16}
+{"timestamp": "2026-04-30T16:54:55.924660+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:346", "input_chars": 7, "output_chars": 17}
+{"timestamp": "2026-04-30T16:54:55.924712+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:354", "input_chars": 21, "output_chars": 31}
+{"timestamp": "2026-04-30T16:54:55.924765+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:355", "input_chars": 89, "output_chars": 99}
+{"timestamp": "2026-04-30T16:54:55.924815+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:375", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.924865+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:409", "input_chars": 24, "output_chars": 34}
+{"timestamp": "2026-04-30T16:54:55.924914+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:473", "input_chars": 18, "output_chars": 28}
+{"timestamp": "2026-04-30T16:54:55.924964+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:508", "input_chars": 29, "output_chars": 39}
+{"timestamp": "2026-04-30T16:54:55.925014+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:532", "input_chars": 25, "output_chars": 35}
+{"timestamp": "2026-04-30T16:54:55.925079+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:537", "input_chars": 15, "output_chars": 25}
+{"timestamp": "2026-04-30T16:54:55.925127+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:539", "input_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.925184+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:540", "input_chars": 89, "output_chars": 99}
+{"timestamp": "2026-04-30T16:54:55.925234+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:548", "input_chars": 11, "output_chars": 21}
+{"timestamp": "2026-04-30T16:54:55.925283+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:550", "input_chars": 11}
+{"timestamp": "2026-04-30T16:54:55.925334+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:551", "input_chars": 82, "output_chars": 92}
+{"timestamp": "2026-04-30T16:54:55.925384+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:559", "input_chars": 6, "output_chars": 16}
+{"timestamp": "2026-04-30T16:54:55.925434+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:561", "input_chars": 6}
+{"timestamp": "2026-04-30T16:54:55.925483+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:562", "input_chars": 63, "output_chars": 73}
+{"timestamp": "2026-04-30T16:54:55.925532+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:570", "input_chars": 13, "output_chars": 23}
+{"timestamp": "2026-04-30T16:54:55.925580+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:572", "input_chars": 13}
+{"timestamp": "2026-04-30T16:54:55.925630+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:573", "input_chars": 61, "output_chars": 71}
+{"timestamp": "2026-04-30T16:54:55.925679+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:581", "input_chars": 6, "output_chars": 16}
+{"timestamp": "2026-04-30T16:54:55.925727+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:583", "input_chars": 6}
+{"timestamp": "2026-04-30T16:54:55.925778+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:584", "input_chars": 65, "output_chars": 75}
+{"timestamp": "2026-04-30T16:54:55.925828+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:605", "input_chars": 38, "output_chars": 48}
+{"timestamp": "2026-04-30T16:54:55.925885+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:606", "input_chars": 223, "output_chars": 233}
+{"timestamp": "2026-04-30T16:54:55.925935+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:617", "input_chars": 32, "output_chars": 42}
+{"timestamp": "2026-04-30T16:54:55.925987+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:618", "input_chars": 61, "output_chars": 71}
+{"timestamp": "2026-04-30T16:54:55.926073+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:641", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.926133+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:649", "input_chars": 140, "output_chars": 150}
+{"timestamp": "2026-04-30T16:54:55.926192+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:656", "input_chars": 114, "output_chars": 124}
+{"timestamp": "2026-04-30T16:54:55.926258+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:663", "input_chars": 177, "output_chars": 187}
+{"timestamp": "2026-04-30T16:54:55.926320+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:670", "input_chars": 191, "output_chars": 201}
+{"timestamp": "2026-04-30T16:54:55.926377+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:684", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.926432+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:692", "input_chars": 7, "output_chars": 17}
+{"timestamp": "2026-04-30T16:54:55.926489+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:693", "input_chars": 38, "output_chars": 48}
+{"timestamp": "2026-04-30T16:54:55.926549+00:00", "provider": "mock", "language": "ms", "segment_id": "home:alt:695", "input_chars": 95, "output_chars": 105}
+{"timestamp": "2026-04-30T16:54:55.926606+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:701", "input_chars": 7, "output_chars": 17}
+{"timestamp": "2026-04-30T16:54:55.926664+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:702", "input_chars": 54, "output_chars": 64}
+{"timestamp": "2026-04-30T16:54:55.926724+00:00", "provider": "mock", "language": "ms", "segment_id": "home:alt:704", "input_chars": 90, "output_chars": 100}
+{"timestamp": "2026-04-30T16:54:55.926780+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:710", "input_chars": 5, "output_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.926837+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:711", "input_chars": 12, "output_chars": 22}
+{"timestamp": "2026-04-30T16:54:55.926897+00:00", "provider": "mock", "language": "ms", "segment_id": "home:alt:713", "input_chars": 98, "output_chars": 108}
+{"timestamp": "2026-04-30T16:54:55.926953+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:880", "input_chars": 23, "output_chars": 33}
+{"timestamp": "2026-04-30T16:54:55.927009+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:955", "input_chars": 10, "output_chars": 20}
+{"timestamp": "2026-04-30T16:54:55.927066+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:956", "input_chars": 13, "output_chars": 23}
+{"timestamp": "2026-04-30T16:54:55.927122+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:963", "input_chars": 8, "output_chars": 18}
+{"timestamp": "2026-04-30T16:54:55.927178+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:964", "input_chars": 20, "output_chars": 30}
+{"timestamp": "2026-04-30T16:54:55.927232+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:975", "input_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.927289+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:976", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.927343+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:983", "input_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.927400+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:990", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.927454+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:998", "input_chars": 15}
+{"timestamp": "2026-04-30T16:54:55.927515+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:999", "input_chars": 6}
+{"timestamp": "2026-04-30T16:54:55.927694+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:1000", "input_chars": 11}
+{"timestamp": "2026-04-30T16:54:55.927754+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1001", "input_chars": 16, "output_chars": 26}
+{"timestamp": "2026-04-30T16:54:55.927810+00:00", "provider": "cache", "language": "ms", "segment_id": "home:text:1002", "input_chars": 13}
+{"timestamp": "2026-04-30T16:54:55.927867+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1003", "input_chars": 4, "output_chars": 14}
+{"timestamp": "2026-04-30T16:54:55.927925+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1014", "input_chars": 11, "output_chars": 21}
+{"timestamp": "2026-04-30T16:54:55.927984+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1015", "input_chars": 8, "output_chars": 18}
+{"timestamp": "2026-04-30T16:54:55.928043+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1016", "input_chars": 11, "output_chars": 21}
+{"timestamp": "2026-04-30T16:54:55.928103+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1017", "input_chars": 10, "output_chars": 20}
+{"timestamp": "2026-04-30T16:54:55.928161+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1025", "input_chars": 22, "output_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.928230+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1026", "input_chars": 18, "output_chars": 28}
+{"timestamp": "2026-04-30T16:54:55.928291+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1027", "input_chars": 14, "output_chars": 24}
+{"timestamp": "2026-04-30T16:54:55.928350+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1028", "input_chars": 28, "output_chars": 38}
+{"timestamp": "2026-04-30T16:54:55.928432+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1031", "input_chars": 589, "output_chars": 599}
+{"timestamp": "2026-04-30T16:54:55.928523+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1034", "input_chars": 313, "output_chars": 323}
+{"timestamp": "2026-04-30T16:54:55.928590+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1036", "input_chars": 20, "output_chars": 30}
+{"timestamp": "2026-04-30T16:54:55.928649+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1037", "input_chars": 15, "output_chars": 25}
+{"timestamp": "2026-04-30T16:54:55.928707+00:00", "provider": "mock", "language": "ms", "segment_id": "home:text:1038", "input_chars": 30, "output_chars": 40}
+{"timestamp": "2026-04-30T16:54:55.928764+00:00", "provider": "cache", "language": "ms", "segment_id": "trading:text:2", "input_chars": 23}
+{"timestamp": "2026-04-30T16:54:55.928821+00:00", "provider": "cache", "language": "ms", "segment_id": "trading:text:5", "input_chars": 7}
+{"timestamp": "2026-04-30T16:54:55.928883+00:00", "provider": "cache", "language": "ms", "segment_id": "trading:text:6", "input_chars": 9}
+{"timestamp": "2026-04-30T16:54:55.928943+00:00", "provider": "cache", "language": "ms", "segment_id": "trading:text:8", "input_chars": 80}
+{"timestamp": "2026-04-30T16:54:55.929009+00:00", "provider": "mock", "language": "ms", "segment_id": "trading:text:9", "input_chars": 96, "output_chars": 106}
+{"timestamp": "2026-04-30T16:54:55.929067+00:00", "provider": "cache", "language": "ms", "segment_id": "trading:text:10", "input_chars": 19}
+{"timestamp": "2026-04-30T16:54:55.929124+00:00", "provider": "cache", "language": "ms", "segment_id": "trading:alt:11", "input_chars": 32}
+{"timestamp": "2026-04-30T16:54:55.929185+00:00", "provider": "cache", "language": "ms", "segment_id": "trading:text:12", "input_chars": 73}

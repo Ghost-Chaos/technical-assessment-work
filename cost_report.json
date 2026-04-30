@@ -1,0 +1,10 @@
+{
+  "currency": "USD",
+  "estimated_cost": 0.0,
+  "note": "Mock translations are free. OpenRouter cost depends on provider billing and response usage.",
+  "stats": {
+    "mock_calls": 148,
+    "api_calls": 0,
+    "cache_hits": 36
+  }
+}

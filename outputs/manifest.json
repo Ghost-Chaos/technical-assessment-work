@@ -1,0 +1,32 @@
+{
+  "stages": [
+    "INIT",
+    "CONFIG_LOADED",
+    "PAGES_FETCHED",
+    "CONTENT_EXTRACTED",
+    "PROTECTED_TERMS_IDENTIFIED",
+    "SEGMENTS_PREPARED",
+    "SEGMENTS_DEDUPED_OR_CACHE_CHECKED",
+    "TRANSLATION_COMPLETE",
+    "HTML_RECONSTRUCTED",
+    "QA_COMPLETE",
+    "COST_REPORT_GENERATED",
+    "RESULTS_FINALISED"
+  ],
+  "pages_processed": 2,
+  "languages": [
+    "ar",
+    "ms"
+  ],
+  "artifacts": [
+    "extracted_segments.json",
+    "protected_terms.json",
+    "translations/",
+    "output/",
+    "qa_report.json",
+    "cost_report.json",
+    "translation_cache.json",
+    "llm_calls.jsonl",
+    "run_metrics.json"
+  ]
+}

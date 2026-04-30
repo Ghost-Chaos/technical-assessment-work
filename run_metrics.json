@@ -1,0 +1,95 @@
+{
+  "stages": [
+    {
+      "stage": "INIT",
+      "timestamp": "2026-04-30T16:54:54.580399+00:00",
+      "details": {}
+    },
+    {
+      "stage": "CONFIG_LOADED",
+      "timestamp": "2026-04-30T16:54:54.581295+00:00",
+      "details": {
+        "pages": 2,
+        "languages": [
+          "ar",
+          "ms"
+        ]
+      }
+    },
+    {
+      "stage": "PAGES_FETCHED",
+      "timestamp": "2026-04-30T16:54:55.872836+00:00",
+      "details": {
+        "pages": 2,
+        "sources": [
+          "network",
+          "sample_fallback"
+        ]
+      }
+    },
+    {
+      "stage": "CONTENT_EXTRACTED",
+      "timestamp": "2026-04-30T16:54:55.902426+00:00",
+      "details": {
+        "segments": 92
+      }
+    },
+    {
+      "stage": "PROTECTED_TERMS_IDENTIFIED",
+      "timestamp": "2026-04-30T16:54:55.917281+00:00",
+      "details": {
+        "terms": 9
+      }
+    },
+    {
+      "stage": "SEGMENTS_PREPARED",
+      "timestamp": "2026-04-30T16:54:55.917301+00:00",
+      "details": {
+        "segments": 92
+      }
+    },
+    {
+      "stage": "SEGMENTS_DEDUPED_OR_CACHE_CHECKED",
+      "timestamp": "2026-04-30T16:54:55.917699+00:00",
+      "details": {
+        "unique_texts": 83,
+        "cached_entries": 22
+      }
+    },
+    {
+      "stage": "TRANSLATION_COMPLETE",
+      "timestamp": "2026-04-30T16:54:55.930559+00:00",
+      "details": {
+        "stats": {
+          "mock_calls": 148,
+          "api_calls": 0,
+          "cache_hits": 36
+        }
+      }
+    },
+    {
+      "stage": "HTML_RECONSTRUCTED",
+      "timestamp": "2026-04-30T16:54:55.992242+00:00",
+      "details": {}
+    },
+    {
+      "stage": "QA_COMPLETE",
+      "timestamp": "2026-04-30T16:54:55.994383+00:00",
+      "details": {
+        "critical_issues": 0
+      }
+    },
+    {
+      "stage": "COST_REPORT_GENERATED",
+      "timestamp": "2026-04-30T16:54:55.994513+00:00",
+      "details": {}
+    },
+    {
+      "stage": "RESULTS_FINALISED",
+      "timestamp": "2026-04-30T16:54:55.994703+00:00",
+      "details": {}
+    }
+  ],
+  "stage_count": 12,
+  "completed": true
+}

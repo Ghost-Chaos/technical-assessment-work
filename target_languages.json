@@ -1,0 +1,12 @@
+[
+  {
+    "code": "ar",
+    "name": "Arabic",
+    "rtl": true
+  },
+  {
+    "code": "ms",
+    "name": "Bahasa Malaysia",
+    "rtl": false
+  }
+]

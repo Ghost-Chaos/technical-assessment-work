@@ -1,0 +1,606 @@
+{
+  "home:text:4": {
+    "source": "Trade global markets with a UAE-regulated broker | Deriv",
+    "protected_source": "Trade global markets with a UAE-regulated broker | __PROTECTED_0__",
+    "translated": "[MOCK_AR] Trade global markets with a UAE-regulated broker | Deriv",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv"
+    }
+  },
+  "home:text:42": {
+    "source": "Scan to download the App",
+    "protected_source": "Scan to download the App",
+    "translated": "[MOCK_AR] Scan to download the App",
+    "placeholder_mapping": {}
+  },
+  "home:text:141": {
+    "source": "Gold and silver trading",
+    "protected_source": "Gold and silver trading",
+    "translated": "[MOCK_AR] Gold and silver trading",
+    "placeholder_mapping": {}
+  },
+  "home:text:143": {
+    "source": "Trade precious metals with spreads from 15 points and leverage up to 1:800.",
+    "protected_source": "Trade precious metals with spreads from 15 points and leverage up to 1:800.",
+    "translated": "[MOCK_AR] Trade precious metals with spreads from 15 points and leverage up to 1:800.",
+    "placeholder_mapping": {}
+  },
+  "home:text:191": {
+    "source": "We take pride in our client-first approach, ensuring that their interests are always our top priority.",
+    "protected_source": "We take pride in our client-first approach, ensuring that their interests are always our top priority.",
+    "translated": "[MOCK_AR] We take pride in our client-first approach, ensuring that their interests are always our top priority.",
+    "placeholder_mapping": {}
+  },
+  "home:text:237": {
+    "source": "Find answers to your questions.",
+    "protected_source": "Find answers to your questions.",
+    "translated": "[MOCK_AR] Find answers to your questions.",
+    "placeholder_mapping": {}
+  },
+  "home:alt:311": {
+    "source": "an image of a street with buildings",
+    "protected_source": "an image of a street with buildings",
+    "translated": "[MOCK_AR] an image of a street with buildings",
+    "placeholder_mapping": {}
+  },
+  "home:alt:312": {
+    "source": "a man smiling and using his phone to trade",
+    "protected_source": "a man smiling and using his phone to trade",
+    "translated": "[MOCK_AR] a man smiling and using his phone to trade",
+    "placeholder_mapping": {}
+  },
+  "home:text:316": {
+    "source": "Trusted worldwide since 1999",
+    "protected_source": "Trusted worldwide since 1999",
+    "translated": "[MOCK_AR] Trusted worldwide since 1999",
+    "placeholder_mapping": {}
+  },
+  "home:text:318": {
+    "source": "Trade assets across Forex, Gold, Stocks, Crypto, and more on a platform trusted by 3M+ global traders. Licensed by UAE’s Capital Market Authority.",
+    "protected_source": "Trade assets across __PROTECTED_0__, Gold, Stocks, Crypto, and more on a platform trusted by 3M+ global traders. Licensed by UAE’s Capital Market Authority.",
+    "translated": "[MOCK_AR] Trade assets across Forex, Gold, Stocks, Crypto, and more on a platform trusted by 3M+ global traders. Licensed by UAE’s Capital Market Authority.",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Forex"
+    }
+  },
+  "home:text:342": {
+    "source": "Deriv scores",
+    "protected_source": "__PROTECTED_0__ scores",
+    "translated": "[MOCK_AR] Deriv scores",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv"
+    }
+  },
+  "home:text:343": {
+    "source": "4.3",
+    "protected_source": "4.3",
+    "translated": "[MOCK_AR] 4.3",
+    "placeholder_mapping": {}
+  },
+  "home:text:344": {
+    "source": "out of 5 based on",
+    "protected_source": "out of 5 based on",
+    "translated": "[MOCK_AR] out of 5 based on",
+    "placeholder_mapping": {}
+  },
+  "home:text:345": {
+    "source": "71,549",
+    "protected_source": "71,549",
+    "translated": "[MOCK_AR] 71,549",
+    "placeholder_mapping": {}
+  },
+  "home:text:346": {
+    "source": "reviews",
+    "protected_source": "reviews",
+    "translated": "[MOCK_AR] reviews",
+    "placeholder_mapping": {}
+  },
+  "home:text:354": {
+    "source": "Trade with confidence",
+    "protected_source": "Trade with confidence",
+    "translated": "[MOCK_AR] Trade with confidence",
+    "placeholder_mapping": {}
+  },
+  "home:text:355": {
+    "source": "For over 25 years, Deriv Group has been a trusted partner of traders worldwide.",
+    "protected_source": "For over 25 years, __PROTECTED_0__ Group has been a trusted partner of traders worldwide.",
+    "translated": "[MOCK_AR] For over 25 years, Deriv Group has been a trusted partner of traders worldwide.",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv"
+    }
+  },
+  "home:text:375": {
+    "source": "Most Innovative Broker",
+    "protected_source": "Most Innovative Broker",
+    "translated": "[MOCK_AR] Most Innovative Broker",
+    "placeholder_mapping": {}
+  },
+  "home:text:409": {
+    "source": "Broker of theYear-Global",
+    "protected_source": "Broker of theYear-Global",
+    "translated": "[MOCK_AR] Broker of theYear-Global",
+    "placeholder_mapping": {}
+  },
+  "home:text:473": {
+    "source": "Most TrustedBroker",
+    "protected_source": "Most TrustedBroker",
+    "translated": "[MOCK_AR] Most TrustedBroker",
+    "placeholder_mapping": {}
+  },
+  "home:text:508": {
+    "source": "Best CustomerService - Global",
+    "protected_source": "Best CustomerService - Global",
+    "translated": "[MOCK_AR] Best CustomerService - Global",
+    "placeholder_mapping": {}
+  },
+  "home:text:532": {
+    "source": "One platform, all markets",
+    "protected_source": "One platform, all markets",
+    "translated": "[MOCK_AR] One platform, all markets",
+    "placeholder_mapping": {}
+  },
+  "home:text:537": {
+    "source": "Forex",
+    "protected_source": "__PROTECTED_0__",
+    "translated": "[MOCK_AR] Forex",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Forex"
+    }
+  },
+  "home:text:539": {
+    "source": "Forex",
+    "protected_source": "__PROTECTED_0__",
+    "translated": "[MOCK_AR] Forex",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Forex"
+    }
+  },
+  "home:text:540": {
+    "source": "Trade major, minor, and exotic currency pairs with competitive spreads and high leverage.",
+    "protected_source": "Trade major, minor, and exotic currency pairs with competitive spreads and high leverage.",
+    "translated": "[MOCK_AR] Trade major, minor, and exotic currency pairs with competitive spreads and high leverage.",
+    "placeholder_mapping": {}
+  },
+  "home:text:548": {
+    "source": "Commodities",
+    "protected_source": "Commodities",
+    "translated": "[MOCK_AR] Commodities",
+    "placeholder_mapping": {}
+  },
+  "home:text:550": {
+    "source": "Commodities",
+    "protected_source": "Commodities",
+    "translated": "[MOCK_AR] Commodities",
+    "placeholder_mapping": {}
+  },
+  "home:text:551": {
+    "source": "Trade precious metals like Gold and Silver, and energies like Oil and Natural Gas.",
+    "protected_source": "Trade precious metals like Gold and Silver, and energies like Oil and Natural Gas.",
+    "translated": "[MOCK_AR] Trade precious metals like Gold and Silver, and energies like Oil and Natural Gas.",
+    "placeholder_mapping": {}
+  },
+  "home:text:559": {
+    "source": "Stocks",
+    "protected_source": "Stocks",
+    "translated": "[MOCK_AR] Stocks",
+    "placeholder_mapping": {}
+  },
+  "home:text:561": {
+    "source": "Stocks",
+    "protected_source": "Stocks",
+    "translated": "[MOCK_AR] Stocks",
+    "placeholder_mapping": {}
+  },
+  "home:text:562": {
+    "source": "Trade leading companies in technology, healthcare, and finance.",
+    "protected_source": "Trade leading companies in technology, healthcare, and finance.",
+    "translated": "[MOCK_AR] Trade leading companies in technology, healthcare, and finance.",
+    "placeholder_mapping": {}
+  },
+  "home:text:570": {
+    "source": "Stock Indices",
+    "protected_source": "Stock Indices",
+    "translated": "[MOCK_AR] Stock Indices",
+    "placeholder_mapping": {}
+  },
+  "home:text:572": {
+    "source": "Stock Indices",
+    "protected_source": "Stock Indices",
+    "translated": "[MOCK_AR] Stock Indices",
+    "placeholder_mapping": {}
+  },
+  "home:text:573": {
+    "source": "Speculate on top Stock Indices from the US, Europe, and Asia.",
+    "protected_source": "Speculate on top Stock Indices from the US, Europe, and Asia.",
+    "translated": "[MOCK_AR] Speculate on top Stock Indices from the US, Europe, and Asia.",
+    "placeholder_mapping": {}
+  },
+  "home:text:581": {
+    "source": "Crypto",
+    "protected_source": "Crypto",
+    "translated": "[MOCK_AR] Crypto",
+    "placeholder_mapping": {}
+  },
+  "home:text:583": {
+    "source": "Crypto",
+    "protected_source": "Crypto",
+    "translated": "[MOCK_AR] Crypto",
+    "placeholder_mapping": {}
+  },
+  "home:text:584": {
+    "source": "Trade 24/7 on popular Cryptocurrencies like Bitcoin and Ethereum.",
+    "protected_source": "Trade 24/7 on popular Cryptocurrencies like Bitcoin and Ethereum.",
+    "translated": "[MOCK_AR] Trade 24/7 on popular Cryptocurrencies like Bitcoin and Ethereum.",
+    "placeholder_mapping": {}
+  },
+  "home:text:605": {
+    "source": "All the tools you need in one platform",
+    "protected_source": "All the tools you need in one platform",
+    "translated": "[MOCK_AR] All the tools you need in one platform",
+    "placeholder_mapping": {}
+  },
+  "home:text:606": {
+    "source": "Deriv MetaTrader 5 (MT5) gives you access to global financial markets with up to 1:1000 leverage, zero commission, and no swap fees. Trade with 80+ indicators, multi-timeframe charts, and built-in risk management.",
+    "protected_source": "__PROTECTED_0__ MetaTrader 5 (MT5) gives you access to global financial markets with up to 1:1000 leverage, zero commission, and no swap fees. Trade with 80+ indicators, multi-timeframe charts, and built-in risk management.",
+    "translated": "[MOCK_AR] Deriv MetaTrader 5 (MT5) gives you access to global financial markets with up to 1:1000 leverage, zero commission, and no swap fees. Trade with 80+ indicators, multi-timeframe charts, and built-in risk management.",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv"
+    }
+  },
+  "home:text:617": {
+    "source": "Quick deposits, easy withdrawals",
+    "protected_source": "Quick deposits, easy withdrawals",
+    "translated": "[MOCK_AR] Quick deposits, easy withdrawals",
+    "placeholder_mapping": {}
+  },
+  "home:text:618": {
+    "source": "Start with just AED 40, using your favourite payment options.",
+    "protected_source": "Start with just AED 40, using your favourite payment options.",
+    "translated": "[MOCK_AR] Start with just AED 40, using your favourite payment options.",
+    "placeholder_mapping": {}
+  },
+  "home:text:641": {
+    "source": "What our customers say",
+    "protected_source": "What our customers say",
+    "translated": "[MOCK_AR] What our customers say",
+    "placeholder_mapping": {}
+  },
+  "home:text:649": {
+    "source": "Always improving and expanding with trading opportunities for traders. Also, making deposits and withdrawals comfortable for Traders always.",
+    "protected_source": "Always improving and expanding with trading opportunities for traders. Also, making deposits and withdrawals comfortable for Traders always.",
+    "translated": "[MOCK_AR] Always improving and expanding with trading opportunities for traders. Also, making deposits and withdrawals comfortable for Traders always.",
+    "placeholder_mapping": {}
+  },
+  "home:text:656": {
+    "source": "Superb support. No hassle at all with withdrawals. Perfect trading conditions. Everything a trader could look for!",
+    "protected_source": "Superb support. No hassle at all with withdrawals. Perfect trading conditions. Everything a trader could look for!",
+    "translated": "[MOCK_AR] Superb support. No hassle at all with withdrawals. Perfect trading conditions. Everything a trader could look for!",
+    "placeholder_mapping": {}
+  },
+  "home:text:663": {
+    "source": "Deriv is one of the best reliable and user friendly broker, everything is efficient! I love it ever since I started using it, I never encounter any problems with them.",
+    "protected_source": "__PROTECTED_0__ is one of the best reliable and user friendly broker, everything is efficient! I love it ever since I started using it, I never encounter any problems with them.",
+    "translated": "[MOCK_AR] Deriv is one of the best reliable and user friendly broker, everything is efficient! I love it ever since I started using it, I never encounter any problems with them.",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv"
+    }
+  },
+  "home:text:670": {
+    "source": "I'm happy with the service provided. Deriv always updates me on what's happening and gives daily statements of accounts. And the staff is very responsive and always ready to assist.",
+    "protected_source": "I'm happy with the service provided. __PROTECTED_0__ always updates me on what's happening and gives daily statements of accounts. And the staff is very responsive and always ready to assist.",
+    "translated": "[MOCK_AR] I'm happy with the service provided. Deriv always updates me on what's happening and gives daily statements of accounts. And the staff is very responsive and always ready to assist.",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv"
+    }
+  },
+  "home:text:684": {
+    "source": "3 steps to get started",
+    "protected_source": "3 steps to get started",
+    "translated": "[MOCK_AR] 3 steps to get started",
+    "placeholder_mapping": {}
+  },
+  "home:text:692": {
+    "source": "Sign up",
+    "protected_source": "Sign up",
+    "translated": "[MOCK_AR] Sign up",
+    "placeholder_mapping": {}
+  },
+  "home:text:693": {
+    "source": "Your email is all you need to sign up.",
+    "protected_source": "Your email is all you need to sign up.",
+    "translated": "[MOCK_AR] Your email is all you need to sign up.",
+    "placeholder_mapping": {}
+  },
+  "home:alt:695": {
+    "source": "Man signing up for an deriv account on a laptop, showing a simple email and password input form",
+    "protected_source": "Man signing up for an deriv account on a laptop, showing a simple email and password input form",
+    "translated": "[MOCK_AR] Man signing up for an deriv account on a laptop, showing a simple email and password input form",
+    "placeholder_mapping": {}
+  },
+  "home:text:701": {
+    "source": "Deposit",
+    "protected_source": "Deposit",
+    "translated": "[MOCK_AR] Deposit",
+    "placeholder_mapping": {}
+  },
+  "home:text:702": {
+    "source": "Deposit instantly with your favourite payment methods.",
+    "protected_source": "Deposit instantly with your favourite payment methods.",
+    "translated": "[MOCK_AR] Deposit instantly with your favourite payment methods.",
+    "placeholder_mapping": {}
+  },
+  "home:alt:704": {
+    "source": "A woman making an online deposit on deriv using a card, displayed on a secure payment form",
+    "protected_source": "A woman making an online deposit on deriv using a card, displayed on a secure payment form",
+    "translated": "[MOCK_AR] A woman making an online deposit on deriv using a card, displayed on a secure payment form",
+    "placeholder_mapping": {}
+  },
+  "home:text:710": {
+    "source": "Trade",
+    "protected_source": "Trade",
+    "translated": "[MOCK_AR] Trade",
+    "placeholder_mapping": {}
+  },
+  "home:text:711": {
+    "source": "Get trading.",
+    "protected_source": "Get trading.",
+    "translated": "[MOCK_AR] Get trading.",
+    "placeholder_mapping": {}
+  },
+  "home:alt:713": {
+    "source": "Man trading deriv on a mobile device, displaying a buy and sell interface with bid and ask prices.",
+    "protected_source": "Man trading deriv on a mobile device, displaying a buy and sell interface with bid and ask prices.",
+    "translated": "[MOCK_AR] Man trading deriv on a mobile device, displaying a buy and sell interface with bid and ask prices.",
+    "placeholder_mapping": {}
+  },
+  "home:text:880": {
+    "source": "Join 3M+ global traders",
+    "protected_source": "Join 3M+ global traders",
+    "translated": "[MOCK_AR] Join 3M+ global traders",
+    "placeholder_mapping": {}
+  },
+  "home:text:955": {
+    "source": "Who we are",
+    "protected_source": "Who we are",
+    "translated": "[MOCK_AR] Who we are",
+    "placeholder_mapping": {}
+  },
+  "home:text:956": {
+    "source": "Why choose us",
+    "protected_source": "Why choose us",
+    "translated": "[MOCK_AR] Why choose us",
+    "placeholder_mapping": {}
+  },
+  "home:text:963": {
+    "source": "Newsroom",
+    "protected_source": "Newsroom",
+    "translated": "[MOCK_AR] Newsroom",
+    "placeholder_mapping": {}
+  },
+  "home:text:964": {
+    "source": "Deriv Life",
+    "protected_source": "__PROTECTED_0__ Life",
+    "translated": "[MOCK_AR] Deriv Life",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv"
+    }
+  },
+  "home:text:975": {
+    "source": "CFDs",
+    "protected_source": "__PROTECTED_0__",
+    "translated": "[MOCK_AR] CFDs",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "CFDs"
+    }
+  },
+  "home:text:976": {
+    "source": "Trading specifications",
+    "protected_source": "Trading specifications",
+    "translated": "[MOCK_AR] Trading specifications",
+    "placeholder_mapping": {}
+  },
+  "home:text:983": {
+    "source": "Deriv MT5",
+    "protected_source": "__PROTECTED_0__",
+    "translated": "[MOCK_AR] Deriv MT5",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv MT5",
+      "__PROTECTED_1__": "Deriv"
+    }
+  },
+  "home:text:990": {
+    "source": "Deposits & withdrawals",
+    "protected_source": "Deposits & withdrawals",
+    "translated": "[MOCK_AR] Deposits & withdrawals",
+    "placeholder_mapping": {}
+  },
+  "home:text:998": {
+    "source": "Forex",
+    "protected_source": "__PROTECTED_0__",
+    "translated": "[MOCK_AR] Forex",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Forex"
+    }
+  },
+  "home:text:999": {
+    "source": "Stocks",
+    "protected_source": "Stocks",
+    "translated": "[MOCK_AR] Stocks",
+    "placeholder_mapping": {}
+  },
+  "home:text:1000": {
+    "source": "Commodities",
+    "protected_source": "Commodities",
+    "translated": "[MOCK_AR] Commodities",
+    "placeholder_mapping": {}
+  },
+  "home:text:1001": {
+    "source": "Cryptocurrencies",
+    "protected_source": "Cryptocurrencies",
+    "translated": "[MOCK_AR] Cryptocurrencies",
+    "placeholder_mapping": {}
+  },
+  "home:text:1002": {
+    "source": "Stock Indices",
+    "protected_source": "Stock Indices",
+    "translated": "[MOCK_AR] Stock Indices",
+    "placeholder_mapping": {}
+  },
+  "home:text:1003": {
+    "source": "ETFs",
+    "protected_source": "ETFs",
+    "translated": "[MOCK_AR] ETFs",
+    "placeholder_mapping": {}
+  },
+  "home:text:1014": {
+    "source": "Market news",
+    "protected_source": "Market news",
+    "translated": "[MOCK_AR] Market news",
+    "placeholder_mapping": {}
+  },
+  "home:text:1015": {
+    "source": "Glossary",
+    "protected_source": "Glossary",
+    "translated": "[MOCK_AR] Glossary",
+    "placeholder_mapping": {}
+  },
+  "home:text:1016": {
+    "source": "Help centre",
+    "protected_source": "Help centre",
+    "translated": "[MOCK_AR] Help centre",
+    "placeholder_mapping": {}
+  },
+  "home:text:1017": {
+    "source": "Contact us",
+    "protected_source": "Contact us",
+    "translated": "[MOCK_AR] Contact us",
+    "placeholder_mapping": {}
+  },
+  "home:text:1025": {
+    "source": "Regulatory information",
+    "protected_source": "Regulatory information",
+    "translated": "[MOCK_AR] Regulatory information",
+    "placeholder_mapping": {}
+  },
+  "home:text:1026": {
+    "source": "Terms & conditions",
+    "protected_source": "Terms & conditions",
+    "translated": "[MOCK_AR] Terms & conditions",
+    "placeholder_mapping": {}
+  },
+  "home:text:1027": {
+    "source": "Privacy policy",
+    "protected_source": "Privacy policy",
+    "translated": "[MOCK_AR] Privacy policy",
+    "placeholder_mapping": {}
+  },
+  "home:text:1028": {
+    "source": "Secure & responsible trading",
+    "protected_source": "Secure & responsible trading",
+    "translated": "[MOCK_AR] Secure & responsible trading",
+    "placeholder_mapping": {}
+  },
+  "home:text:1031": {
+    "source": "Deriv Capital Contracts & Currencies L.L.C is a limited liability company registered in Dubai, UAE, under registration number 2279721. Its registered office is at 2402, One by Omniyat, Business Bay, Dubai, with its place of business at 2201 in the same building.‍The company is licensed and regulated by the UAE Capital Market Authority (CMA) as a Category 1 Trading Broker for Over-the-Counter Derivatives Contracts & Currencies Spot Markets, a Financial Products Dealer (Licence number 20200000243), and a Category 5 Financial Consultant (Licence number 20200000199).",
+    "protected_source": "__PROTECTED_0__ Capital Contracts & Currencies L.L.C is a limited liability company registered in Dubai, UAE, under registration number 2279721. Its registered office is at 2402, One by Omniyat, Business Bay, Dubai, with its place of business at 2201 in the same building.‍The company is licensed and regulated by the UAE Capital Market Authority (CMA) as a Category 1 Trading Broker for Over-the-Counter __PROTECTED_0__atives Contracts & Currencies Spot Markets, a Financial Products Dealer (Licence number 20200000243), and a Category 5 Financial Consultant (Licence number 20200000199).",
+    "translated": "[MOCK_AR] Deriv Capital Contracts & Currencies L.L.C is a limited liability company registered in Dubai, UAE, under registration number 2279721. Its registered office is at 2402, One by Omniyat, Business Bay, Dubai, with its place of business at 2201 in the same building.‍The company is licensed and regulated by the UAE Capital Market Authority (CMA) as a Category 1 Trading Broker for Over-the-Counter Derivatives Contracts & Currencies Spot Markets, a Financial Products Dealer (Licence number 20200000243), and a Category 5 Financial Consultant (Licence number 20200000199).",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv"
+    }
+  },
+  "home:text:1034": {
+    "source": "‍The products offered on this website are complex derivative products that carry a significant risk of potential loss. CFDs are complex instruments with a high risk of losing money rapidly due to leverage. Make sure to read our , , and  to fully understand the risks involved before using our services.",
+    "protected_source": "‍The products offered on this website are complex derivative products that carry a significant risk of potential loss. __PROTECTED_0__ are complex instruments with a high risk of losing money rapidly due to leverage. Make sure to read our , , and  to fully understand the risks involved before using our services.",
+    "translated": "[MOCK_AR] ‍The products offered on this website are complex derivative products that carry a significant risk of potential loss. CFDs are complex instruments with a high risk of losing money rapidly due to leverage. Make sure to read our , , and  to fully understand the risks involved before using our services.",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "CFDs"
+    }
+  },
+  "home:text:1036": {
+    "source": "Terms and Conditions",
+    "protected_source": "Terms and Conditions",
+    "translated": "[MOCK_AR] Terms and Conditions",
+    "placeholder_mapping": {}
+  },
+  "home:text:1037": {
+    "source": "Risk Disclosure",
+    "protected_source": "Risk Disclosure",
+    "translated": "[MOCK_AR] Risk Disclosure",
+    "placeholder_mapping": {}
+  },
+  "home:text:1038": {
+    "source": "Secure and Responsible Trading",
+    "protected_source": "Secure and Responsible Trading",
+    "translated": "[MOCK_AR] Secure and Responsible Trading",
+    "placeholder_mapping": {}
+  },
+  "trading:text:2": {
+    "source": "Deriv markets",
+    "protected_source": "__PROTECTED_0__ markets",
+    "translated": "[MOCK_AR] Deriv markets",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv"
+    }
+  },
+  "trading:text:5": {
+    "source": "Markets",
+    "protected_source": "Markets",
+    "translated": "[MOCK_AR] Markets",
+    "placeholder_mapping": {}
+  },
+  "trading:text:6": {
+    "source": "Platforms",
+    "protected_source": "Platforms",
+    "translated": "[MOCK_AR] Platforms",
+    "placeholder_mapping": {}
+  },
+  "trading:text:8": {
+    "source": "Trade Forex, Synthetic Indices, and CFDs with Deriv",
+    "protected_source": "Trade __PROTECTED_1__, __PROTECTED_0__, and __PROTECTED_3__ with __PROTECTED_2__",
+    "translated": "[MOCK_AR] Trade Forex, Synthetic Indices, and CFDs with Deriv",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Synthetic Indices",
+      "__PROTECTED_1__": "Forex",
+      "__PROTECTED_2__": "Deriv",
+      "__PROTECTED_3__": "CFDs"
+    }
+  },
+  "trading:text:9": {
+    "source": "Explore Deriv Bot, Deriv MT5, Deriv X, SmartTrader, and Multipliers.",
+    "protected_source": "Explore __PROTECTED_2__, __PROTECTED_3__, __PROTECTED_4__, __PROTECTED_0__, and __PROTECTED_1__.",
+    "translated": "[MOCK_AR] Explore Deriv Bot, Deriv MT5, Deriv X, SmartTrader, and Multipliers.",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "SmartTrader",
+      "__PROTECTED_1__": "Multipliers",
+      "__PROTECTED_2__": "Deriv Bot",
+      "__PROTECTED_3__": "Deriv MT5",
+      "__PROTECTED_4__": "Deriv X",
+      "__PROTECTED_5__": "Deriv"
+    }
+  },
+  "trading:text:10": {
+    "source": "Create free account",
+    "protected_source": "Create free account",
+    "translated": "[MOCK_AR] Create free account",
+    "placeholder_mapping": {}
+  },
+  "trading:alt:11": {
+    "source": "Deriv MT5 trading platform",
+    "protected_source": "__PROTECTED_0__ trading platform",
+    "translated": "[MOCK_AR] Deriv MT5 trading platform",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "Deriv MT5",
+      "__PROTECTED_1__": "Deriv"
+    }
+  },
+  "trading:text:12": {
+    "source": "Start with {{currency}} and keep your account_id token unchanged.",
+    "protected_source": "Start with __PROTECTED_0__ and keep your __PROTECTED_2__ token unchanged.",
+    "translated": "[MOCK_AR] Start with {{currency}} and keep your account_id token unchanged.",
+    "placeholder_mapping": {
+      "__PROTECTED_0__": "{{currency}}",
+      "__PROTECTED_1__": "{currency}",
+      "__PROTECTED_2__": "account_id"
+    }
+  }
+}

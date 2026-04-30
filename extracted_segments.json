@@ -1,0 +1,738 @@
+[
+  {
+    "id": "home:text:4",
+    "page_id": "home",
+    "field": "text",
+    "tag": "title",
+    "type": "body",
+    "text": "Trade global markets with a UAE-regulated broker | Deriv"
+  },
+  {
+    "id": "home:text:42",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Scan to download the App"
+  },
+  {
+    "id": "home:text:141",
+    "page_id": "home",
+    "field": "text",
+    "tag": "strong",
+    "type": "body",
+    "text": "Gold and silver trading"
+  },
+  {
+    "id": "home:text:143",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Trade precious metals with spreads from 15 points and leverage up to 1:800."
+  },
+  {
+    "id": "home:text:191",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "We take pride in our client-first approach, ensuring that their interests are always our top priority."
+  },
+  {
+    "id": "home:text:237",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Find answers to your questions."
+  },
+  {
+    "id": "home:alt:311",
+    "page_id": "home",
+    "field": "alt",
+    "tag": "img",
+    "type": "alt_text",
+    "text": "an image of a street with buildings"
+  },
+  {
+    "id": "home:alt:312",
+    "page_id": "home",
+    "field": "alt",
+    "tag": "img",
+    "type": "alt_text",
+    "text": "a man smiling and using his phone to trade"
+  },
+  {
+    "id": "home:text:316",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h1",
+    "type": "heading",
+    "text": "Trusted worldwide since 1999"
+  },
+  {
+    "id": "home:text:318",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Trade assets across Forex, Gold, Stocks, Crypto, and more on a platform trusted by 3M+ global traders. Licensed by UAE’s Capital Market Authority."
+  },
+  {
+    "id": "home:text:342",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Deriv scores"
+  },
+  {
+    "id": "home:text:343",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "4.3"
+  },
+  {
+    "id": "home:text:344",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "out of 5 based on"
+  },
+  {
+    "id": "home:text:345",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "71,549"
+  },
+  {
+    "id": "home:text:346",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "reviews"
+  },
+  {
+    "id": "home:text:354",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h2",
+    "type": "heading",
+    "text": "Trade with confidence"
+  },
+  {
+    "id": "home:text:355",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "For over 25 years, Deriv Group has been a trusted partner of traders worldwide."
+  },
+  {
+    "id": "home:text:375",
+    "page_id": "home",
+    "field": "text",
+    "tag": "strong",
+    "type": "body",
+    "text": "Most Innovative Broker"
+  },
+  {
+    "id": "home:text:409",
+    "page_id": "home",
+    "field": "text",
+    "tag": "strong",
+    "type": "body",
+    "text": "Broker of theYear-Global"
+  },
+  {
+    "id": "home:text:473",
+    "page_id": "home",
+    "field": "text",
+    "tag": "strong",
+    "type": "body",
+    "text": "Most TrustedBroker"
+  },
+  {
+    "id": "home:text:508",
+    "page_id": "home",
+    "field": "text",
+    "tag": "strong",
+    "type": "body",
+    "text": "Best CustomerService - Global"
+  },
+  {
+    "id": "home:text:532",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h2",
+    "type": "heading",
+    "text": "One platform, all markets"
+  },
+  {
+    "id": "home:text:537",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Forex"
+  },
+  {
+    "id": "home:text:539",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Forex"
+  },
+  {
+    "id": "home:text:540",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Trade major, minor, and exotic currency pairs with competitive spreads and high leverage."
+  },
+  {
+    "id": "home:text:548",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Commodities"
+  },
+  {
+    "id": "home:text:550",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Commodities"
+  },
+  {
+    "id": "home:text:551",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Trade precious metals like Gold and Silver, and energies like Oil and Natural Gas."
+  },
+  {
+    "id": "home:text:559",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Stocks"
+  },
+  {
+    "id": "home:text:561",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Stocks"
+  },
+  {
+    "id": "home:text:562",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Trade leading companies in technology, healthcare, and finance."
+  },
+  {
+    "id": "home:text:570",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Stock Indices"
+  },
+  {
+    "id": "home:text:572",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Stock Indices"
+  },
+  {
+    "id": "home:text:573",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Speculate on top Stock Indices from the US, Europe, and Asia."
+  },
+  {
+    "id": "home:text:581",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Crypto"
+  },
+  {
+    "id": "home:text:583",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Crypto"
+  },
+  {
+    "id": "home:text:584",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Trade 24/7 on popular Cryptocurrencies like Bitcoin and Ethereum."
+  },
+  {
+    "id": "home:text:605",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h2",
+    "type": "heading",
+    "text": "All the tools you need in one platform"
+  },
+  {
+    "id": "home:text:606",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Deriv MetaTrader 5 (MT5) gives you access to global financial markets with up to 1:1000 leverage, zero commission, and no swap fees. Trade with 80+ indicators, multi-timeframe charts, and built-in risk management."
+  },
+  {
+    "id": "home:text:617",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h2",
+    "type": "heading",
+    "text": "Quick deposits, easy withdrawals"
+  },
+  {
+    "id": "home:text:618",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Start with just AED 40, using your favourite payment options."
+  },
+  {
+    "id": "home:text:641",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h2",
+    "type": "heading",
+    "text": "What our customers say"
+  },
+  {
+    "id": "home:text:649",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Always improving and expanding with trading opportunities for traders. Also, making deposits and withdrawals comfortable for Traders always."
+  },
+  {
+    "id": "home:text:656",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Superb support. No hassle at all with withdrawals. Perfect trading conditions. Everything a trader could look for!"
+  },
+  {
+    "id": "home:text:663",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Deriv is one of the best reliable and user friendly broker, everything is efficient! I love it ever since I started using it, I never encounter any problems with them."
+  },
+  {
+    "id": "home:text:670",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "I'm happy with the service provided. Deriv always updates me on what's happening and gives daily statements of accounts. And the staff is very responsive and always ready to assist."
+  },
+  {
+    "id": "home:text:684",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h2",
+    "type": "heading",
+    "text": "3 steps to get started"
+  },
+  {
+    "id": "home:text:692",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Sign up"
+  },
+  {
+    "id": "home:text:693",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Your email is all you need to sign up."
+  },
+  {
+    "id": "home:alt:695",
+    "page_id": "home",
+    "field": "alt",
+    "tag": "img",
+    "type": "alt_text",
+    "text": "Man signing up for an deriv account on a laptop, showing a simple email and password input form"
+  },
+  {
+    "id": "home:text:701",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Deposit"
+  },
+  {
+    "id": "home:text:702",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Deposit instantly with your favourite payment methods."
+  },
+  {
+    "id": "home:alt:704",
+    "page_id": "home",
+    "field": "alt",
+    "tag": "img",
+    "type": "alt_text",
+    "text": "A woman making an online deposit on deriv using a card, displayed on a secure payment form"
+  },
+  {
+    "id": "home:text:710",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h3",
+    "type": "heading",
+    "text": "Trade"
+  },
+  {
+    "id": "home:text:711",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Get trading."
+  },
+  {
+    "id": "home:alt:713",
+    "page_id": "home",
+    "field": "alt",
+    "tag": "img",
+    "type": "alt_text",
+    "text": "Man trading deriv on a mobile device, displaying a buy and sell interface with bid and ask prices."
+  },
+  {
+    "id": "home:text:880",
+    "page_id": "home",
+    "field": "text",
+    "tag": "h2",
+    "type": "heading",
+    "text": "Join 3M+ global traders"
+  },
+  {
+    "id": "home:text:955",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Who we are"
+  },
+  {
+    "id": "home:text:956",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Why choose us"
+  },
+  {
+    "id": "home:text:963",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Newsroom"
+  },
+  {
+    "id": "home:text:964",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Deriv Life"
+  },
+  {
+    "id": "home:text:975",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "CFDs"
+  },
+  {
+    "id": "home:text:976",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Trading specifications"
+  },
+  {
+    "id": "home:text:983",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Deriv MT5"
+  },
+  {
+    "id": "home:text:990",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Deposits & withdrawals"
+  },
+  {
+    "id": "home:text:998",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Forex"
+  },
+  {
+    "id": "home:text:999",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Stocks"
+  },
+  {
+    "id": "home:text:1000",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Commodities"
+  },
+  {
+    "id": "home:text:1001",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Cryptocurrencies"
+  },
+  {
+    "id": "home:text:1002",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Stock Indices"
+  },
+  {
+    "id": "home:text:1003",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "ETFs"
+  },
+  {
+    "id": "home:text:1014",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Market news"
+  },
+  {
+    "id": "home:text:1015",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Glossary"
+  },
+  {
+    "id": "home:text:1016",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Help centre"
+  },
+  {
+    "id": "home:text:1017",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Contact us"
+  },
+  {
+    "id": "home:text:1025",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Regulatory information"
+  },
+  {
+    "id": "home:text:1026",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Terms & conditions"
+  },
+  {
+    "id": "home:text:1027",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Privacy policy"
+  },
+  {
+    "id": "home:text:1028",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Secure & responsible trading"
+  },
+  {
+    "id": "home:text:1031",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Deriv Capital Contracts & Currencies L.L.C is a limited liability company registered in Dubai, UAE, under registration number 2279721. Its registered office is at 2402, One by Omniyat, Business Bay, Dubai, with its place of business at 2201 in the same building.‍The company is licensed and regulated by the UAE Capital Market Authority (CMA) as a Category 1 Trading Broker for Over-the-Counter Derivatives Contracts & Currencies Spot Markets, a Financial Products Dealer (Licence number 20200000243), and a Category 5 Financial Consultant (Licence number 20200000199)."
+  },
+  {
+    "id": "home:text:1034",
+    "page_id": "home",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "‍The products offered on this website are complex derivative products that carry a significant risk of potential loss. CFDs are complex instruments with a high risk of losing money rapidly due to leverage. Make sure to read our , , and  to fully understand the risks involved before using our services."
+  },
+  {
+    "id": "home:text:1036",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Terms and Conditions"
+  },
+  {
+    "id": "home:text:1037",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Risk Disclosure"
+  },
+  {
+    "id": "home:text:1038",
+    "page_id": "home",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Secure and Responsible Trading"
+  },
+  {
+    "id": "trading:text:2",
+    "page_id": "trading",
+    "field": "text",
+    "tag": "title",
+    "type": "body",
+    "text": "Deriv markets"
+  },
+  {
+    "id": "trading:text:5",
+    "page_id": "trading",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Markets"
+  },
+  {
+    "id": "trading:text:6",
+    "page_id": "trading",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Platforms"
+  },
+  {
+    "id": "trading:text:8",
+    "page_id": "trading",
+    "field": "text",
+    "tag": "h1",
+    "type": "heading",
+    "text": "Trade Forex, Synthetic Indices, and CFDs with Deriv"
+  },
+  {
+    "id": "trading:text:9",
+    "page_id": "trading",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Explore Deriv Bot, Deriv MT5, Deriv X, SmartTrader, and Multipliers."
+  },
+  {
+    "id": "trading:text:10",
+    "page_id": "trading",
+    "field": "text",
+    "tag": "a",
+    "type": "cta_or_nav",
+    "text": "Create free account"
+  },
+  {
+    "id": "trading:alt:11",
+    "page_id": "trading",
+    "field": "alt",
+    "tag": "img",
+    "type": "alt_text",
+    "text": "Deriv MT5 trading platform"
+  },
+  {
+    "id": "trading:text:12",
+    "page_id": "trading",
+    "field": "text",
+    "tag": "p",
+    "type": "body",
+    "text": "Start with {{currency}} and keep your account_id token unchanged."
+  }
+]

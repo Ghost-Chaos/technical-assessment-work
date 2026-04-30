@@ -1,0 +1,12 @@
+[
+  {
+    "id": "home",
+    "url": "https://deriv.com/",
+    "title": "Deriv home"
+  },
+  {
+    "id": "trading",
+    "url": "https://deriv.com/markets/",
+    "title": "Deriv markets"
+  }
+]
